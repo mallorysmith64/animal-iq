@@ -1,0 +1,62 @@
+/* css properties that references images specific to a particular game */
+.iq-logo {
+	background: url(../images/iq-logo-sm.png) no-repeat;
+}
+
+.progressLine {
+	background: url(../images/habitat-back.png) repeat-x;
+}
+
+.progressLine div {
+	background: url(../images/habitat-front.png) repeat-x;
+}
+
+.numbers li {
+	background: url(../images/animal-sprites.png) no-repeat;
+}
+
+/** preload images for mobile devices **/
+footer:after
+{
+	content: url(../images/animal-sprites.png);
+	display: none;
+}
+
+/* mid-level screens*/
+@media only screen and (min-width : 800px) {
+	.iq-logo {
+		background-image: url(../images/iq-logo.png);
+	}
+
+	.badge-none {
+		background-image: url(../images/final-none.jpg);
+	}
+
+	.badge-red {
+		background-image: url(../images/final-red.jpg);
+	}
+
+	.badge-blue {
+		background-image: url(../images/final-blue.jpg);
+	}
+
+	.badge-bronze {
+		background-image: url(../images/final-bronze.jpg);
+	}
+
+	.badge-silver {
+		background-image: url(../images/final-silver.jpg);
+	}
+
+	.badge-gold {
+		background-image: url(../images/final-gold.jpg);
+	}
+
+	.badge-platinum {
+		background-image: url(../images/final-platinum.jpg);
+	}
+
+	.action {
+		background: url(../images/action.png) no-repeat;
+	}
+}

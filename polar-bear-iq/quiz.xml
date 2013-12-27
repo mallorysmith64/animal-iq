@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<screen>
+		<question>
+			Female polar bears usually give birth to ___ cubs at a time.
+		</question>
+		<choices>
+			<choice correct="no">
+				7
+			</choice>
+			<choice correct="no">
+				21
+			</choice>
+			<choice correct="yes">
+				2
+			</choice>
+			<choice correct="no">
+				9
+			</choice>
+		</choices>
+		<explanation>
+			Polar bears usually give birth to twin cubs who stick by their mother for about two years in order to learn necessary survival skills for the Arctic climate. Occasionally they may give birth to just one or even three cubs at a time.
+		</explanation>
+		<picture>images/question-1.jpg</picture>
+		<attribution>
+		    Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			https://worldwildlife.org/stories/five-remarkable-animal-moms
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Polar bears sport a white coat of fur that helps them blend into the snow and ice. But what color are their tongues?
+		</question>
+		<choices>
+			<choice correct="no">
+				Yellow
+			</choice>
+			<choice correct="yes">
+				Blue
+			</choice>
+			<choice correct="no">
+				Pink
+			</choice>
+			<choice correct="no">
+				Green
+			</choice>
+		</choices>
+		<explanation>
+			Surprisingly, polar bears have blue tongues that sit among 42 razor-sharp teeth. They also have black skin under their fur.   		
+		</explanation>
+		<picture>images/question-2.jpg</picture>
+		<attribution>
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			http://wwf.panda.org/what_we_do/where_we_work/arctic/wildlife/polar_bear/
+		</source>
+	</screen>
+	<screen>
+		<question>
+			How fast can polar bears swim?
+		</question>
+		<choices>
+			<choice correct="no">
+				20 mph
+			</choice>
+			<choice correct="no">
+				They don’t swim
+			</choice>
+			<choice correct="no">
+				60 mph
+			</choice>
+			<choice correct="yes">
+				6 mph
+			</choice>
+		</choices>
+		<explanation>
+			Polar bears are strong swimmers. They can hit speeds in the water of 6 mph and hold their breath for more than a minute. They paddle with their front paws and hold their hind legs flat like a rudder.
+		</explanation>
+		<picture>images/question-3.jpg</picture>
+		<attribution>
+			WWF-US Deborah Gainer
+			WWF Cannon Carlos Drews
+		</attribution>
+		<source>
+			https://worldwildlife.org/species/polar-bear
+		</source>
+	</screen>
+	<screen>
+		<question>
+			How much does the average male polar bear weigh?
+		</question>
+		<choices>
+			<choice correct="no">
+				100-300 lbs
+			</choice>
+			<choice correct="no">
+				8,000-13,000 lbs
+			</choice>
+			<choice correct="yes">
+				800-1,300 lbs
+			</choice>
+			<choice correct="no">
+				20-60 lbs
+			</choice>
+		</choices>
+		<explanation>
+			Polar bears measure six to nine feet in length and maintain a thick layer of body fat to fight the cold. Females tend to weigh about half as much as males. 
+		</explanation>
+		<picture>images/question-4.jpg</picture>
+		<attribution>
+			WWF-Indonesia / Samsul Komar
+		</attribution>
+		<source>
+			https://worldwildlife.org/species/polar-bear
+			http://www.iucn.org/es/aib/acerca_de_la_biodiversidad/biocuriosidades/?4797/Polar-bears
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Why don’t polar bears live in Antarctica?
+		</question>
+		<choices>
+			<choice correct="yes">
+				The world’s oceans have never frozen from north to south
+			</choice>
+			<choice correct="no">
+				Temperatures in Antarctica drop too low
+			</choice>
+			<choice correct="no">
+				The penguin population forced polar bears out
+			</choice>
+			<choice correct="no">
+				They don’t have passports
+			</choice>
+		</choices>
+		<explanation>
+			Polar bears evolved relatively recently from grizzly bears somewhere around eastern Russia and Alaska. Because the world’s oceans have never frozen from north to south, polar bears have never had a way to travel to Antarctica.
+		</explanation>
+		<picture>images/question-5.jpg</picture>
+		<attribution>
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			http://www.iucn.org/es/aib/acerca_de_la_biodiversidad/biocuriosidades/?4797/Polar-bears
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Which is the greatest threat to polar bears?
+		</question>
+		<choices>
+			<choice correct="yes">
+				Climate change
+			</choice>
+			<choice correct="no">
+				Industrial development
+			</choice>
+			<choice correct="no">
+				Conflict with humans
+			</choice>
+			<choice correct="no">
+				Unsustainable hunting
+			</choice>
+		</choices>
+		<explanation>
+			Industrial development, conflict with humans and unsustainable hunting are all threats, but climate change is the greatest one. Shorter ice seasons from climate change result in less time for polar bears to find food.
+		</explanation>
+		<picture>images/question-6.jpg</picture>
+		<attribution>
+			Jeffrey Parish / WWF
+		</attribution>
+		<source>
+			https://worldwildlife.org/species/polar-bear
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Human-polar bear conflicts are on the rise because ________.
+		</question>
+		<choices>
+			<choice correct="no">
+				The polar bear population has grown too large.
+			</choice>
+			<choice correct="yes">
+				Melting sea ice forces bears onshore longer
+			</choice>
+			<choice correct="no">
+				More people are moving to the Arctic region
+			</choice>
+			<choice correct="no">
+				Polar bears are living farther south
+			</choice>
+		</choices>
+		<explanation>
+			Retreating ice means polar bears spend more time onshore and come into contact with people more often. WWF supports community projects in Alaska and Russia to prevent unintended encounters between bears and people.
+		</explanation>
+		<picture>images/question-7.jpg</picture>
+		<attribution>
+			Y.-J. Rey-Millet / WWF-Canon
+		</attribution>
+		<source>
+			https://worldwildlife.org/species/polar-bear
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Which is not a reason WWF tracks polar bear travels in the Arctic?
+		</question>
+		<choices>
+			<choice correct="no">
+				To determine the species' range
+			</choice>
+			<choice correct="no">
+				To learn how they behave with less sea ice
+			</choice>
+			<choice correct="yes">
+				To locate populations for tour groups to view
+			</choice>
+			<choice correct="no">
+				To monitor the health of polar bears
+			</choice>
+		</choices>
+		<explanation>
+			Radio collars allow WWF to track polar bear movements to determine range and climate change’s effect on bear behavior. Scientists also perform health assessments when they put the collars on the bears.
+		</explanation>
+		<picture>images/question-8.jpg</picture>
+		<attribution>
+			A. Christy Williams / WWF-Canon
+		</attribution>
+		<source>
+			http://wwf.panda.org/what_we_do/where_we_work/arctic/wildlife/polar_bear/tracker/\
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Scientists do not take samples of _____ to monitor polar bear health.
+		</question>
+		<choices>
+			<choice correct="no">
+				Blood
+			</choice>
+			<choice correct="yes">
+				Nail clippings
+			</choice>
+			<choice correct="no">
+				Hair
+			</choice>
+			<choice correct="no">
+				Fat
+			</choice>
+		</choices>
+		<explanation>
+			Scientists use blood, fat and hair samples to identify any toxic contamination. They also measure weight and length and estimate age from bears’ teeth.
+		</explanation>
+		<picture>images/question-9.jpg</picture>
+		<attribution>
+			WWF-Canon / Folke Wulf
+		</attribution>
+		<source>
+			
+		</source>
+	</screen>
+	<screen>
+		<question>
+			How does WWF work to address climate change in the polar bear’s environment?
+		</question>
+		<choices>
+			<choice correct="no">
+				Encourages governments to act on climate change
+			</choice>
+			<choice correct="no">
+				Helps locals make management plans for Arctic ice
+			</choice>
+			<choice correct="no">
+				Funds research on climate change effects 
+			</choice>
+			<choice correct="yes">
+				All of these answers
+			</choice>
+		</choices>
+		<explanation>
+			WWF works with governments for climate change action. We’ve successfully pushed for a statement that recognizes the urgent need for an effective global response that will address the challenges of climate change.
+		</explanation>
+		<picture>images/question-10.jpg</picture>
+		<attribution>
+			WWF-Indonesia/Syamsuardi
+		</attribution>
+		<source>
+			 https://worldwildlife.org/species/polar-bear
+		</source>
+	</screen>
+</quiz>

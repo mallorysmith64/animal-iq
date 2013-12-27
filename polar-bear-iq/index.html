@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<!--[if lt IE 10]>
+	<meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <![endif]-->
+	
+	<title>Polar Bear IQ</title>
+	<meta name="description" content="How much do you know about polar bears? Test your knowledge with this quiz.">
+	<meta name = "viewport" content = "width=device-width, initial-scale=1">
+	
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="../global-css/style.css">
+	<link rel="stylesheet" href="css/css-images.css">
+	<link rel="stylesheet" href="css/css-variables.css">
+	
+	<!--[if (lt IE 9)&(!IEMobile)]>
+		<link rel="stylesheet" href="../global-css/ie.css">
+		<link rel="stylesheet" href="css/ie.css">
+	<![endif]-->
+	<!-- end CSS-->
+	
+	<script src="../global-js/libs/modernizr.min.js"></script>
+</head>
+
+<body>
+	<header>
+		<div><a class="logo" href="http://worldwildlife.org/"><span>World Wildlife Fund</span></a></div>
+		<div class="iq-logo"><span>Polar Bear IQ</span></div>
+	</header>
+
+	<div class="introContainer container" id="intro">
+		<section class="intro" role="main">
+			<div class="introText">
+				<h1>Welcome to the WWF Polar Bear Refuge!</h1>
+				<p>As our newest ranger, we need you to help us increase our polar bear population. Demonstrate your knowledge by answering the questions and watch the refuge grow.</p>
+				<p>For each question you answer correctly, you'll add another polar bear to the refuge! Plus, you'll earn a special ranger badge once you have answered all 10 questions!</p>
+		
+				<button id="play">Play!</button>
+			</div>
+		</section>
+	</div>
+  <!-- end of #intro -->
+  
+  <div class="sky container" id="quizContainer">
+	<div class="window">
+      <section class="screen" id="quiz" role="main">
+	  	<div class="quizArea">
+	    	<p class="questionNum">Question <span id="qNum">1</span> of <span id="qTotal">10</span></p>
+	    	<p class="question"></p>
+			<section class="answers">	
+				<p class="verify-text" id="verify-correct">Correct</p>
+	      		<p class="verify-text" id="verify-incorrect">Incorrect.</p>
+	    	</section>
+	    	<section id="choices"></section>
+	    	<section class="explanation">
+				<p class="correctAnswer"><strong>Answer:</strong> <span id="ctAnswer"></span></p>
+				<p id="details"></p>
+				<button class="next">next</button>
+				<button class="finish">show my score</button>
+	    	</section>
+	    
+	    	<section class="score">
+				<h2>Well Done!</h2>
+				<p class="scoreText">You scored<br /><strong><span id="totalScore">0</span> out of <span id="totalQtn">10</span> questions correctly!</strong></p>
+				<p class="badgeText">Sorry, you did not earn a badge. But I bet you'll help the polar bears even more and earn a badge if you play again.</p>
+				<section class="badge"></section>
+	    	</section>
+	    
+	    	<section class="callToAction">
+				<section class="badge">
+					<p><span class="no-win">Sorry, you did not earn a badge.</span><span class="win">You earned the</span></p>
+					<h4>Thanks for Playing!</h4>
+					<p class="bragging"><span class="no-win">Share the game:</span><span class="win">&amp; all the bragging rights that go with it:</span></p>
+					<p class="share">
+						<a id="facebook" href="http://www.facebook.com/sharer.php?u=http://apps.worldwildlife.org/animal-iq/polar-bear-iq/social/badge-none.html" target="_blank"></a>
+						<a id="twitter" href="http://www.twitter.com/home?status=Check+out+@World_Wildlife's+Polar+Bear+IQ+game+http://wwf.to/1b7ZOXC"  target="_blank"></a>
+						<a id="google" href="https://plus.google.com/share?url=http://apps.worldwildlife.org/animal-iq/polar-bear-iq/social/badge-none-g.html" target="_blank"></a>
+					</p>
+				</section>
+		
+				<section class="help">
+					<h2>Help Real Polar Bears: Make a Symbolic Adoption</h2>
+					<div class="action">
+						<p>Now that you've helped our imaginary polar bears, help the real ones. Make a symbolic adoption that supports WWF's efforts to protect polar bears-and other species around the world-and their habitats.</p>
+						<button onclick="window.open('http://gifts.worldwildlife.org/gift-center/gifts/Species-Adoptions/Polar-Bear.aspx?sc=AWY1403WC919')">
+							Adopt a Polar Bear
+						</button>
+					</div>
+		    
+		    		<section class="playAgain">
+			   			<p><strong>So close...</strong></p>
+			   			<p>You were only a few questions away from the <span id="nextBadge">Red Polar Bear Badge</span>! <a href="game.html">Want to play again?</a></p>
+		    		</section>
+				</section>
+	    	</section>
+	  	</div>
+    </section>
+	<div class="screen-bottom"></div>  
+    <!-- end screen -->
+
+    	<div class="pulley"></div>
+		</div>
+		<div class="progressLine">
+			<ol class="numbers">
+				<li>0</li>
+			</ol>
+			<div></div>
+		</div><!-- end window -->
+	</div> <!-- end of #container -->
+  
+	<footer>
+		<p><a href="http://worldwildlife.org">Home</a> | <a href="http://worldwildlife.org/about/contact">Contact</a> | <a href="http://worldwildlife.org/pages/privacy-policy">Privacy Policy</a> | <a href="http://worldwildlife.org/pages/site-terms">Site Terms</a> | <a href="http://worldwildlife.org/pages/state-disclosures">State Disclosures</a> | <a href="http://worldwildlife.custhelp.com/app/answers/list">Help</a></p>
+  	<p>&copy 2013 World Wildlife Fund</p>
+	</footer>
+  
+	<!-- JavaScript at the bottom for fast page loading -->
+	<script src="../global-js/libs/jquery-1.7.min.js"></script>
+	<script src="js/quiz-variables.js"></script>
+	<script src="../global-js/quiz.js"></script>
+</body>
+</html>

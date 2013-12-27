@@ -1,0 +1,60 @@
+/* IE8 Specific Styles */
+
+
+
+.iq-logo {
+	width: 186px;
+	height: 66px;
+	right:2.2em;
+	background-image: url(../images/iq-logo.png);
+}
+
+.introText {
+	padding-left: 270px;
+	min-height: 461px;
+	background: url(../images/index-image.png) no-repeat;
+}
+
+.quizArea{
+padding-top:30px;
+}
+
+.correctAnswer{
+top:60px;
+}
+
+.window{
+height:25em;
+}
+
+.badge-none {
+	background-image: url(../images/final-none.jpg);
+}
+
+.badge-red {
+	background-image: url(../images/final-red.jpg);
+}
+
+.badge-blue {
+	background-image: url(../images/final-blue.jpg);
+}
+
+.badge-bronze {
+	background-image: url(../images/final-bronze.jpg);
+}
+
+.badge-silver {
+	background-image: url(../images/final-silver.jpg);
+}
+
+.badge-gold {
+	background-image: url(../images/final-gold.jpg);
+}
+
+	.badge-platinum {
+		background-image: url(../images/final-platinum.jpg);
+	}
+
+	.action {
+		background: url(../images/action.png) no-repeat;
+	}

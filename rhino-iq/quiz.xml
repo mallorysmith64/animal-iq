@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<screen>
+		<question>
+			Black rhinos and white rhinos are found in:
+		</question>
+		<choices>
+			<choice correct="yes">
+				Africa
+			</choice>
+			<choice correct="no">
+				Asia
+			</choice>
+			<choice correct="no">
+				Europe
+			</choice>
+			<choice correct="no">
+				Antarctica
+			</choice>
+		</choices>
+		<explanation>
+			Black rhinos and white rhinos are found in Africa. Javan, Sumatran, and Indian rhinos are found in Asia. Penguins, alas, get first dibs on Antarctica!
+		</explanation>
+		<picture>images/african-rhinos.jpg</picture>
+		<attribution>
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/rhinos.html
+		</source>
+	</screen>
+	<screen>
+		<question>
+			True or False: Rhinos have poor eyesight.
+		</question>
+		<choices>
+			<choice correct="yes">
+				True
+			</choice>
+			<choice correct="no">
+				False
+			</choice>
+		</choices>
+		<explanation>
+			Though rhinos don’t see very well, other senses pick up the slack -- mainly smell and hearing.		
+		</explanation>
+		<picture>images/eyesight.jpg</picture>
+		<attribution>
+			Image No: 18762
+		 	Black rhinoceros (Diceros bicornis); Kenya
+			Diceros bicornis Black rhinoceros Close-up of eye Nairobi National Park, Kenya Rhino campaign
+			Michel Gunther / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/rhinos.html
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Egrets and other birds perch on rhinos because:
+		</question>
+		<choices>
+			<choice correct="no">
+				Their wings get tired
+			</choice>
+			<choice correct="no">
+				They get lonely
+			</choice>
+			<choice correct="no">
+				Predators can’t attack them
+			</choice>
+			<choice correct="yes">
+				They feed on parasites
+			</choice>
+		</choices>
+		<explanation>
+			Birds get a free meal on rhinos -- literally! By perching atop a rhino, these birds can feed on the parasites found on the rhino’s skin. This mutually beneficial relationship between two species is often referred to as symbiosis.
+		</explanation>
+		<picture>images/egrets.jpg</picture>
+		<attribution>
+			Image No: 203216
+			Black rhino, Ngorongoro Conservation Area, Tanzania
+			Black rhino (Diceros bicornis) in Ngorongoro Crater, Ngorongoro Conservation Area, Tanzania
+			WWF-US / Deborah Gainer
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/rhinos.html
+		</source>
+	</screen>
+	<screen>
+		<question>
+			The rhino with the longest hair is:
+		</question>
+		<choices>
+			<choice correct="no">
+				White rhino
+			</choice>
+			<choice correct="no">
+				Indian Rhino
+			</choice>
+			<choice correct="yes">
+				Sumatran rhino
+			</choice>
+			<choice correct="no">
+				Javan Rhino
+			</choice>
+		</choices>
+		<explanation>
+			Sumatran rhinos have reddish-brown skin variably covered with long hair. In fact, calves start out as “redheads” -- with a dense covering of red-brown hair that becomes more sparse and coarse as they grow older.
+		</explanation>
+		<picture>images/sumatran-rhinoceros.jpg</picture>
+		<attribution>
+			Image No: 279134
+			Sumatran rhino, Way Kambas National Park, Indonesia
+			Sumatran rhino (Dicerorhinus sumatrensis) standing within forest vegetation. Captive-Sumatran Rhino Sanctuary, within Way Kambas National Park, 
+			Lampung Province, southern Sumatra, Indonesia
+			naturepl.com / Mark Carwardine / WWF
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/sumatranrhinoceros.html 
+		</source>
+	</screen>
+	<screen>
+		<question>
+			What’s the main difference between black and white rhinos?
+		</question>
+		<choices>
+			<choice correct="no">
+				One is white, one is black
+			</choice>
+			<choice correct="yes">
+				Shape of its lips
+			</choice>
+			<choice correct="no">
+				When they sleep
+			</choice>
+			<choice correct="no">
+				Number of toes
+			</choice>
+		</choices>
+		<explanation>
+			Funny enough, both types of rhinos are the same color! The name white rhino comes from the Dutch "weit" (wide), in reference to the animal's wide muzzle. Black rhinos have pointed, flexible upper lips.
+		</explanation>
+		<picture>images/lips.jpg</picture>
+		<attribution>
+			Image No: 36688
+			Garamba National Park, Congo, The Democratic Republic of the
+			Ceratotherium simum cottoni Northern white rhinoceros Adult male "Notch" resting in termitaria Garamba NP, Democratic Republic of Congo (Zaire) Project number: ZR0009
+			Kes and Fraser Smith / WWF-Canon
+			
+			Image No: 112392
+			Black rhinoceros (Diceros bicornis); Lake Nakuru National Park, Kenya
+			Black Rhinoceros (Diceros bicornis), portrait of adult bull. Lake Nakuru National Park, Kenya. Distribution localised: Southern, Eastern and Central West Africa
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://www.arkive.org/white-rhinoceros/ceratotherium-simum/ 
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Rhinos are threatened by poaching due to the demand for their:
+		</question>
+		<choices>
+			<choice correct="yes">
+				Horns
+			</choice>
+			<choice correct="no">
+				Breath
+			</choice>
+			<choice correct="no">
+				Tails
+			</choice>
+			<choice correct="no">
+				Teeth
+			</choice>
+		</choices>
+		<explanation>
+			At least one rhino is poached every day because of exploding illegal Asian demand for its horn. Highly sought as a status symbol, the horn is also mistakenly believed to cure cancer in Vietnam.
+		</explanation>
+		<picture>images/horns.jpg</picture>
+		<attribution>
+			Image No: 109044
+			Southern white rhinoceros (Ceratotherium simum simum)
+			Ceratotherium simum simum, Southern White rhinoceros. Adult and calf. The white rhino is listed by the IUCN and all other conservation groups as endangered. Many game wardens and researchers routinely risk their lives to help protect this species from poachers. New and innovative management programs are being developed to help save this magnificent creature. Just over 4000 white rhinos exist in the wild today. Southern Africa and East Africa    
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/rhinos.html
+		</source>
+	</screen>
+	<screen>
+		<question>
+			The Javan rhino is one of the ___________ large mammal species in the world.
+		</question>
+		<choices>
+			<choice correct="no">
+				Fastest
+			</choice>
+			<choice correct="no">
+				Smelliest
+			</choice>
+			<choice correct="yes">
+				Rarest
+			</choice>
+			<choice correct="no">
+				Oldest
+			</choice>
+		</choices>
+		<explanation>
+			The Javan rhino once roamed from northeastern India through Myanmar, Thailand, Cambodia, Vietnam, and the islands of Sumatra and Java in Indonesia. Today, as few as 40 individuals are thought to survive, making the Javan rhino one of the rarest large mammal species.
+		</explanation>
+		<picture>images/javan-rhino.jpg</picture>
+		<attribution>
+			Image No: 36558
+			Javan rhinoceros, Indonesia
+			 Javan rhinoceros (Rhinoceros sondaicus) photographed by a camera trap, Ujung Kulon National Park Java, Indonesia. 
+			Mike Griffiths / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/javanrhino/javanrhinoceros.html 
+		</source>
+	</screen>
+	<screen>
+		<question>
+			As a result of strict conservation efforts, the Indian rhino population increased from 600 in 1975 to _____ in 2002.
+		</question>
+		<choices>
+			<choice correct="no">
+				601
+			</choice>
+			<choice correct="no">
+				50,000
+			</choice>
+			<choice correct="no">
+				1,200
+			</choice>
+			<choice correct="yes">
+				2,400
+			</choice>
+		</choices>
+		<explanation>
+			The Indian rhino is a conservation success story with a population increase from 600 in 1975 to 2,400 in 2002. However, it is still threatened by poaching for its horn.
+		</explanation>
+		<picture>images/indian-rhino.jpg</picture>
+		<attribution>
+			Image No: 246034
+			Indian rhino, Kaziranga National Park, India
+			Indian Rhinoceros, Rhinoceros unicornis, Kaziranga National Park, Assam, India.
+			Kaziranga - Karbi Anglong Landscape
+			Ola Jennersten / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/indianrhinoceros.html
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Which of the following <b>is not</b> a way WWF works to protect rhinos?
+		</question>
+		<choices>
+			<choice correct="no">
+				Stopping forest destruction
+			</choice>
+			<choice correct="yes">
+				Cloning rhinos
+			</choice>
+			<choice correct="no">
+				Increasing management in protected areas
+			</choice>
+			<choice correct="no">
+				Strengthening anti-poaching efforts
+			</choice>
+		</choices>
+		<explanation>
+			Stopping forest destruction, managing protected areas, and increasing anti-poaching efforts are just a few ways WWF works to protect rhinos in their natural habitat. We also monitor and stop the trade of rhino horns and raise awareness about the threats to rhinos.
+		</explanation>
+		<picture>images/wwf-works.jpg</picture>
+		<attribution>
+			Image No: 104903
+			Kunene, Namibia
+			Game guards tracking rhinos, Torra Conservancy, Kunene, Namibia
+			Edward Parker / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://www.worldwildlife.org/species/finder/rhinoceros/sumatranrhinoceros.html
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Which of the following are ways individuals can help rhinos?
+		</question>
+		<choices>
+			<choice correct="no">
+				Use sustainable wood and paper products
+			</choice>
+			<choice correct="no">
+				Don't buy rhino horn products
+			</choice>
+			<choice correct="no">
+				Take a trip to see rhinos in the wild
+			</choice>
+			<choice correct="yes">
+				All of these answers
+			</choice>
+		</choices>
+		<explanation>
+			By using sustainable wood products, you help protect rhino habitat. Traveling to see rhinos in their natural surroundings builds job opportunities and promotes protection of rhinos within the community. Never buy any rhino parts or products – not only is it illegal but it also increases demand for these products.
+		</explanation>
+		<picture>images/travel.jpg</picture>
+		<attribution>
+			Image No: 288682
+			Tourists on a game drive photographing a white rhino, South Africa
+			White Rhino. (Ceratotherium simum) Tourists on a game drive photographing a white rhino. South Africa. Dist. Localised: Southern and East Africa.
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			WWF Species
+			http://wwf.panda.org/what_we_do/endangered_species/rhinoceros/
+		</source>
+	</screen>
+</quiz>

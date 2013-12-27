@@ -1,0 +1,162 @@
+/* css properties that can be updated for each quiz */
+
+/* =============================================================================
+   Colors
+   ========================================================================== */
+body, button, input {
+	color: #000;
+}
+
+a, a:visited {
+	color: #517e17;
+}
+
+a:hover, a:active {
+	color: #000;
+}
+
+button {
+	border-bottom: 1px solid #fff;
+	background-color: #cc7919;
+	color: #fff;
+}
+
+button:hover {
+	background-color: #7c4300;
+}
+
+button:active {
+	background-color: #362404;
+}
+
+header{
+	background: #000;
+}
+
+footer {
+	background: #fff;
+	color: #555;
+}
+
+.sky {
+	background-color: #598bc3;
+	background: -moz-linear-gradient(top, #598bc3 0%, #ffffff 70%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#598bc3), color-stop(70%,#ffffff)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #598bc3 0%,#ffffff 70%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #598bc3 0%,#ffffff 70%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #598bc3 0%,#ffffff 70%); /* IE10+ */
+	background: linear-gradient(top, #598bc3 0%,#ffffff 70%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#598bc3', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+.answered, .answered:hover, .answered:active {
+	background: #4D4F4E;
+}
+
+.correct, .correct:hover, .correct:active {
+	background: #517e17;
+}
+
+.incorrect, .incorrect:hover, .incorrect:active {
+	background: #8d0000;
+}
+
+/* =============================================================================
+   Images
+   ========================================================================== */
+
+.iq-logo {
+	width: 87px;
+	height: 59px;
+}
+
+/* progress line animal styles - adjust background position for the animal */
+.animal1 {
+	width: 56px;
+	padding: 100px 0 0;
+	margin: 0 30px 0 -15px;
+}
+
+.animal1.light {
+	background-position: 0 -270px;
+}
+
+.animal1.medium {
+	background-position: -75px -270px;
+}
+
+.animal1.dark {
+	background-position: -151px -270px;
+}
+
+.animal2 {
+	width: 95px;
+	padding: 100px 0 0;
+	margin: 0 10px 0 -25px;
+}
+
+.animal2.light {
+	background-position: 0 -135px;
+}
+
+.animal2.medium {
+	background-position: -157px -135px;
+}
+
+.animal2.dark {
+	background-position: -315px -135px;
+}
+
+.mother {
+	width: 95px;
+	padding: 100px 53px 0 0;
+	margin: 0 5px 0 -75px;
+}
+
+.mother.light {
+	background-position: 0 0;
+}
+
+.mother.medium {
+	background-position: -153px 0;
+}
+
+.mother.dark {
+	background-position: -305px 0;
+}
+
+.baby {
+	width: 54px;
+	padding: 100px 0 0;
+	margin: 0 0 0 -100px;
+}
+
+.baby.light {
+	background-position: -222px -270px;
+}
+
+.baby.medium {
+	background-position: -285px -270px;
+}
+
+.baby.dark {
+	background-position: -352px -270px;
+}
+
+/* =============================================================================
+   Responsive styles
+   ========================================================================== */
+
+/* mid-level screens*/
+@media only screen and (min-width : 800px) {
+	.iq-logo {
+		width: 113px;
+		height: 66px;
+	}
+
+	.introText {
+		padding-left: 270px;
+		min-height: 461px;
+		background: url(../images/rhino-calf.png) no-repeat;
+	}
+}

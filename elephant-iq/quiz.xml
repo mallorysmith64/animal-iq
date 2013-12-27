@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<screen>
+		<question>
+			How long does an elephant pregnancy last?
+		</question>
+		<choices>
+			<choice correct="no">
+				9 months
+			</choice>
+			<choice correct="no">
+				12 months
+			</choice>
+			<choice correct="no">
+				18 months
+			</choice>
+			<choice correct="yes">
+				22 months
+			</choice>
+		</choices>
+		<explanation>
+			Elephants give birth to a single baby after a 22-month-long pregnancy. That’s the longest gestation period of any mammal.
+		</explanation>
+		<picture>images/question-1.jpg</picture>
+		<attribution>
+		    Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			http://worldwildlife.org/species/elephant (next to last paragraph in overview)
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Elephants have good long-term memories.
+		</question>
+		<choices>
+			<choice correct="yes">
+				True
+			</choice>
+			<choice correct="no">
+				False
+			</choice>
+		</choices>
+		<explanation>
+			Elephants do possess incredible memories. Their extraordinary recollection helps them find places to drink and eat food. Elephants also develop remarkable social memories that allow them to remember dozens, even hundreds, of other elephants. 		
+		</explanation>
+		<picture>images/question-2.jpg</picture>
+		<attribution>
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			http://www.african-elephant.org/faq/elefaq.html#Memory 
+		</source>
+	</screen>
+	<screen>
+		<question>
+			What is one way forest elephants differ from savanna elephants?
+		</question>
+		<choices>
+			<choice correct="no">
+				They don’t have tusks
+			</choice>
+			<choice correct="no">
+				They have longer trunks
+			</choice>
+			<choice correct="yes">
+				They are smaller
+			</choice>
+			<choice correct="no">
+				They aren’t in Africa
+			</choice>
+		</choices>
+		<explanation>
+			Forest elephants are smaller and darker than savanna elephants and their tusks are straighter and point downward, allowing them to move through the dense undergrowth of their habitat in the forests of central Africa. You can save elephants by supporting ecotourism—travel with WWF to Africa to see these magnificent animals in the wild!
+		</explanation>
+		<picture>images/question-3.jpg</picture>
+		<attribution>
+			WWF-US Deborah Gainer
+			WWF Cannon Carlos Drews
+		</attribution>
+		<source>
+			http://www.arkive.org/forest-elephant/loxodonta-cyclotis/ (Forest elephant description)
+            https://worldwildlife.org/species/forest-elephant (last paragraph in overview)
+		</source>
+	</screen>
+	<screen>
+		<question>
+			An elephant’s _____ is an elongated fusion of its nose and upper lip and contains approximately 150,000 muscles.
+		</question>
+		<choices>
+			<choice correct="no">
+				Leg
+			</choice>
+			<choice correct="yes">
+				Trunk
+			</choice>
+			<choice correct="no">
+				Tail
+			</choice>
+			<choice correct="no">
+				Tusk
+			</choice>
+		</choices>
+		<explanation>
+			An elephant trunk has up to 150,000 muscles. The human body has about 600 muscles. Among its many uses, an elephant’s trunk picks up objects, trumpets warnings, and greets other elephants. 
+		</explanation>
+		<picture>images/question-4.jpg</picture>
+		<attribution>
+			WWF-Indonesia / Samsul Komar
+		</attribution>
+		<source>
+			https://worldwildlife.org/stories/seven-things-you-should-know-about-elephants (#4)
+            http://www.arkive.org/african-elephant/loxodonta-africana/
+		</source>
+	</screen>
+	<screen>
+		<question>
+			What are female elephants called?
+		</question>
+		<choices>
+			<choice correct="no">
+				Lionesses
+			</choice>
+			<choice correct="no">
+				Hens
+			</choice>
+			<choice correct="yes">
+				Cows
+			</choice>
+			<choice correct="no">
+				Ewes
+			</choice>
+		</choices>
+		<explanation>
+			Female elephants are called cows. Led by a matriarch, elephants are organized into complex social structures of cows, juveniles, and calves. Male elephants, known as bulls. tend to live in isolation.
+		</explanation>
+		<picture>images/question-5.jpg</picture>
+		<attribution>
+			Martin Harvey / WWF-Canon
+		</attribution>
+		<source>
+			http://worldwildlife.org/species/elephant (next to last paragraph in overview)
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Elephants’ _____ skin helps keep them cool.
+		</question>
+		<choices>
+			<choice correct="no">
+				Gray
+			</choice>
+			<choice correct="yes">
+				Wrinkly
+			</choice>
+			<choice correct="no">
+				Hairy
+			</choice>
+			<choice correct="no">
+				Shiny
+			</choice>
+		</choices>
+		<explanation>
+			An elephant’s wrinkly skin keeps him cool. Moisture is trapped within the wrinkles and then evaporates more slowly than if the skin surface was flat. The elephant also radiates excess heat by fanning its large ears. 
+		</explanation>
+		<picture>images/question-6.jpg</picture>
+		<attribution>
+			Jeffrey Parish / WWF
+		</attribution>
+		<source>
+			http://www.arkive.org/african-elephant/loxodonta-africana/ (African Elephant description, fourth paragraph)
+		</source>
+	</screen>
+	<screen>
+		<question>
+			What is the main food in an elephant’s diet?
+		</question>
+		<choices>
+			<choice correct="no">
+				Bananas
+			</choice>
+			<choice correct="no">
+				Roots
+			</choice>
+			<choice correct="no">
+				Bark
+			</choice>
+			<choice correct="yes">
+				Grass
+			</choice>
+		</choices>
+		<explanation>
+			Most of the elephant’s diet consists of grasses but elephants are also known to eat bark, leaves, fruit, and agricultural crops.
+		</explanation>
+		<picture>images/question-7.jpg</picture>
+		<attribution>
+			Y.-J. Rey-Millet / WWF-Canon
+		</attribution>
+		<source>
+			http://www.arkive.org/african-elephant/loxodonta-africana/ (African Elephant description, last paragraph)
+            http://www.arkive.org/asian-elephant/elephas-maximus/ (Asian Elephant description, last paragraph)
+		</source>
+	</screen>
+	<screen>
+		<question>
+			Elephant-human conflict exists because:
+		</question>
+		<choices>
+			<choice correct="no">
+				Elephants are taking up more space
+			</choice>
+			<choice correct="yes">
+				Elephants have lost habitats and migratory routes to human settlements 
+			</choice>
+			<choice correct="no">
+				Elephant populations have grown
+			</choice>
+			<choice correct="no">
+				Humans haven’t encountered elephants before
+			</choice>
+		</choices>
+		<explanation>
+			As wild spaces vanish, elephants are forced into closer contact with people. WWF works to ease reduce conflict between humans and elephants.
+		</explanation>
+		<picture>images/question-8.jpg</picture>
+		<attribution>
+			A. Christy Williams / WWF-Canon
+		</attribution>
+		<source>
+			https://worldwildlife.org/species/asian-elephant
+		</source>
+	</screen>
+	<screen>
+		<question>
+			The most immediate threat to elephants is poachers who kill them for their:
+		</question>
+		<choices>
+			<choice correct="yes">
+				Tusks
+			</choice>
+			<choice correct="no">
+				Skin
+			</choice>
+			<choice correct="no">
+				Tails
+			</choice>
+			<choice correct="no">
+				Feet
+			</choice>
+		</choices>
+		<explanation>
+			The illegal demand for ivory is the biggest driver of elephant poaching. Despite a global ban on international ivory sales, tens of thousands of elephants are killed annually to meet a growing demand for ivory products. You can save elephants by making sure you never buy ivory. 
+		</explanation>
+		<picture>images/question-9.jpg</picture>
+		<attribution>
+			WWF-Canon / Folke Wulf
+		</attribution>
+		<source>
+			https://worldwildlife.org/species/african-elephant (Threats: Illegal Wildlife Trade)
+		</source>
+	</screen>
+	<screen>
+		<question>
+			What is WWF doing to help elephants?
+		</question>
+		<choices>
+			<choice correct="no">
+				Fighting poaching and stopping demand for illegal ivory
+			</choice>
+			<choice correct="no">
+				Reducing conflict between people and elephants
+			</choice>
+			<choice correct="no">
+				Working with governments and partners to maintain large conservation areas
+			</choice>
+			<choice correct="yes">
+				All of these answers
+			</choice>
+		</choices>
+		<explanation>
+			WWF equips and trains law enforcement teams so they can conduct regular and effective antipoaching patrols. We work to establish new protected areas to provide safe havens for elephants. WWF also trains wildlife managers and local communities to use modern methods and tools to mitigate human-elephant conflict.
+		</explanation>
+		<picture>images/question-10.jpg</picture>
+		<attribution>
+			WWF-Indonesia/Syamsuardi
+		</attribution>
+		<source>
+			https://worldwildlife.org/species/african-elephant (What WWF Is Doing)
+		</source>
+	</screen>
+</quiz>

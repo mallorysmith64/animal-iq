@@ -1,0 +1,74 @@
+/* IE8 Specific Styles */
+html {
+	font-size: 18px;
+}
+
+.logo {
+	width: 46px;
+	height: 55px;
+	background-image: url(../global-images/logo.png);
+}
+
+.callToAction .badge {
+	float: right; 
+	width: 35%; 
+	text-align: center;
+	background: no-repeat;
+}
+
+button {
+	width: 45%;
+	margin-right: 3%;
+}
+
+.explanation, .score {
+	min-height: 500px;
+	margin: -60px -40px 0 0;
+	background:  no-repeat top right;
+}
+
+.explanation p {
+	width: 40%;
+	position: absolute;
+	bottom: 85px;
+	font-size: 0.8888888em; /* 16px / 18px */
+}
+
+.correctAnswer {
+	top: 20px;
+}
+
+.next, .finish {
+	position: absolute;
+	bottom: 0;
+	width: 25%;
+}
+
+.numbers {
+	margin: 0 1%;
+}
+
+.numbers li {
+	display: inline-block;
+}
+
+.mother:nth-child(2) {
+	margin: 0 5px 0 -30px;
+}
+
+.score {
+	padding: 80px 60% 0 0;
+}
+
+.action {
+	min-height: 155px;
+	padding-left: 170px;
+}
+
+.callToAction .badge {
+	float: right; 
+	width: 35%; 
+	text-align: center;
+	padding: 11.875em 0 0 0; /* 190px / 16px */
+	background: no-repeat top center;
+}
