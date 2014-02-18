@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<screen>
+		<question>
+			At most, how many pounds of meat can a tiger consume at one time?
+		</question>
+		<choices>
+			<choice correct="no">
+				13
+			</choice>
+			<choice correct="no">
+				250
+			</choice>
+			<choice correct="no">
+				1000
+			</choice>
+			<choice correct="yes">
+				88
+			</choice>
+		</choices>
+		<explanation>
+			Tigers can eat up to 88 pounds of meat at one time. They typically hunt alone and stalk prey.
+		</explanation>
+		<picture>images/question-1.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			What’s the estimated tiger population in the wild?
+		</question>
+		<choices>
+			<choice correct="no">
+				10,000
+			</choice>
+			<choice correct="yes">
+				3,200
+			</choice>
+			<choice correct="no">
+				220
+			</choice>
+			<choice correct="no">
+				200,000
+			</choice>
+		</choices>
+		<explanation>
+			As few as 3,200 tigers are left in the wild. They live in a few patches of forest in Asia.
+		</explanation>
+		<picture>images/question-2.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			How much of tigers' historic range has been lost?
+		</question>
+		<choices>
+			<choice correct="yes">
+				93 percent
+			</choice>
+			<choice correct="no">
+				15 percent
+			</choice>
+			<choice correct="no">
+				3 percent
+			</choice>
+			<choice correct="no">
+				60 percent
+			</choice>
+		</choices>
+		<explanation>
+			Tigers have lost 93 percent of their historic range to human activities, including the clearing of forests for agriculture.
+		</explanation>
+		<picture>images/question-3.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			Which of these does not threaten tigers in the wild?
+		</question>
+		<choices>
+			<choice correct="no">
+				Illegal wildlife trade
+			</choice>
+			<choice correct="no">
+				Habitat loss
+			</choice>
+			<choice correct="no">
+				Climate change
+			</choice>
+			<choice correct="yes">
+				Bycatch
+			</choice>
+		</choices>
+		<explanation>
+			Climate change, illegal wildlife trade and habitat loss are among the reasons that tigers are an endangered species.
+		</explanation>
+		<picture>images/question-4.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			What does WWF do to help end tiger poaching?
+		</question>
+		<choices>
+			<choice correct="no">
+				Creates enforcement units in each landscape
+			</choice>
+			<choice correct="no">
+				Invests in stronger law enforcement
+			</choice>
+			<choice correct="no">
+				Empowers community patrols
+			</choice>
+			<choice correct="yes">
+				All of these answers
+			</choice>
+		</choices>
+		<explanation>
+			WWF works with people in all 13 countries that are home to tigers in an effort to eliminate wildlife crime.
+		</explanation>
+		<picture>images/question-5.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			How do scientists identify individual tigers?
+		</question>
+		<choices>
+			<choice correct="no">
+				The shape of their paws
+			</choice>
+			<choice correct="yes">
+				The pattern of their stripes
+			</choice>
+			<choice correct="no">
+				The color of their eyes
+			</choice>
+			<choice correct="no">
+				The length of their tails
+			</choice>
+		</choices>
+		<explanation>
+			Tigers sport unique stripe patterns, much like humans have unique fingerprints.
+		</explanation>
+		<picture>images/question-6.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			How do tigers help some of the world’s poorest communities?
+		</question>
+		<choices>
+			<choice correct="yes">
+				They attract tourists
+			</choice>
+			<choice correct="no">
+				They host fundraisers
+			</choice>
+			<choice correct="no">
+				They scare off other predators
+			</choice>
+			<choice correct="no">
+				They help farm
+			</choice>
+		</choices>
+		<explanation>
+			Where tigers are, tourists go. And where tourists go, money can be made by communities with few income alternatives.
+		</explanation>
+		<picture>images/question-7.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			What tools does WWF use to monitor tigers and their prey?
+		</question>
+		<choices>
+			<choice correct="no">
+				Camera traps
+			</choice>
+			<choice correct="no">
+				Tracking technology
+			</choice>
+			<choice correct="no">
+				DNA collection
+			</choice>
+			<choice correct="yes">
+				All of these answers
+			</choice>
+		</choices>
+		<explanation>
+			Camera traps, GPS and DNA collection help WWF track tiger populations to make conservation decisions based on strong science.
+		</explanation>
+		<picture>images/question-8.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			True or False: There are more tigers in captivity in the US than in the wild in Asia.
+		</question>
+		<choices>
+			<choice correct="yes">
+				True
+			</choice>
+			<choice correct="no">
+				False
+			</choice>
+		</choices>
+		<explanation>
+			WWF has called for a ban on private possessions of big cats such as tigers and lions.
+		</explanation>
+		<picture>images/question-9.jpg</picture>
+	</screen>
+	<screen>
+		<question>
+			In 2010, the world came together at the historic tiger summit and pledged to:
+		</question>
+		<choices>
+			<choice correct="no">
+				Lobby for tigers as the Olympic mascot for 2016 Olympics
+			</choice>
+			<choice correct="yes">
+				Double the number of wild tigers by 2022
+			</choice>
+			<choice correct="no">
+				Elevate wild tigers as the symbol of nature
+			</choice>
+			<choice correct="no">
+				Make tigers the FIFA World Cup mascot
+			</choice>
+		</choices>
+		<explanation>
+			Tiger range countries pledged to double the population of these magnificent big cats in the wild by the next Chinese Year of the Tiger—a goal known as Tx2.
+		</explanation>
+		<picture>images/question-10.jpg</picture>
+	</screen>
+</quiz>
