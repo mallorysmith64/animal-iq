@@ -125,7 +125,7 @@ $(document).ready(function() {
         'id': id
       });
 					 
-      if (mobile) btn.css('background', btnColor); // fix weird button color issue on mobile
+      //if (mobile) btn.css('background', btnColor); // fix weird button color issue on mobile
       btn.appendTo('#choices');
       $('.questionNum, .question, #choices').fadeIn(time);
     }                     
@@ -167,8 +167,8 @@ $(document).ready(function() {
     var verify = '#verify-incorrect';
     if (correct) {
       verify = '#verify-correct';
-      $(verify).text(correctStat[Math.floor(Math.random()*(correctStat.length))]);
-      if (species[randomSpecies] == 'baby') correctText = baby;     
+      $(verify).text(score == 1 ? correctStat[correctStat.length -1] : correctStat[Math.floor(Math.random()*(correctStat.length))]);
+      if (species[randomSpecies] == 'baby') correctText = baby;    
         
       // change correct answer to new color
       btn.addClass('correct');
@@ -278,17 +278,20 @@ $(document).ready(function() {
 		$('.callToAction').fadeIn(time);
 	
 		// Easter Egg
-		if (!(mobile)) {
-			$('.pulley').on('click', function() {
-				if (quiz.height() == '250') {
-					quiz.animate({ height: quizHeight }, time);
-					$('.playAgain').show();
-				} else {
-					quiz.animate({ height: '250px' }, time);
-					$('.playAgain').hide();
-				}
-			});
-		}
+    if (!(mobile)) {
+    $('.pulley').on('click', function() {
+      if (quiz.height() == '250' && score < 10) {
+        quiz.animate({ height: quizHeight }, time, function() {
+          $('.playAgain').show();
+        });
+      } else if (quiz.height() == '250' && score == 10) {
+        quiz.animate({ height: quizHeight }, time);
+      } else {
+        $('.playAgain').hide();
+        quiz.animate({ height: '250px' }, time);
+      }
+    });
+  }
 	}
 
   // generate a random species

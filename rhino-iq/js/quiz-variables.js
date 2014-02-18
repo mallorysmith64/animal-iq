@@ -70,8 +70,8 @@ badges = [
 }], // possible badges
 
 // URLs for social network sharing at end of game
-facebookUrl = "http://www.facebook.com/sharer.php?u=http://apps.worldwildlife.org/animal-iq/rhino-iq/social/",
-googleUrl = "https://plus.google.com/share?url=http://apps.worldwildlife.org/animal-iq/rhino-iq/social/",
+facebookUrl = "http://www.facebook.com/sharer.php?u=http://content.worldwildlife.org/animal-iq/rhino-iq/social/",
+googleUrl = "https://plus.google.com/share?url=http://content.worldwildlife.org/animal-iq/rhino-iq/social/",
 twitterUrl = "http://www.twitter.com/home?status=";
 
 // button color as workaround for strange mobile issue where buttons show up in different colors

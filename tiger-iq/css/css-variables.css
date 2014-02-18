@@ -1,0 +1,242 @@
+/* css properties that can be updated for each quiz */
+
+/* =============================================================================
+   Colors
+   button: #cc7919;
+   button:hover: #7c4300;
+   button:active: #362404;
+   ========================================================================== */
+body, button, input {
+	color: #000;
+}
+
+a, a:visited {
+	color: #517e17;
+}
+
+a:hover, a:active {
+	color: #000;
+}
+
+button, button:hover {
+	border-bottom: 1px solid #fff;
+	background-color: #cc7919;
+	color: #fff;
+}
+
+/*button:hover {
+	background-color: #7c4300;
+}*/
+
+button:active {
+	background-color: #362404;
+}
+
+header{
+	background: #000;
+}
+
+footer {
+	background: #fff;
+	color: #555;
+}
+
+
+.sky {
+	background-color: #214D04;
+	background: -moz-linear-gradient(top, #112802 0%, #214D04 95%, #669E43 100%);
+	/* background: -moz-linear-gradient(top, #598bc3 0%, #ffffff 70%); /* FF3.6+ */ 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #112802), color-stop(95%, #214D04), color-stop(100%, #669E43)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #112802  0%, #214D04 95%, #669E43 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #112802  0%, #214D04 95%, #669E43 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #112802  0%, #214D04 95%, #669E43 100%); /* IE10+ */
+	background: linear-gradient(top, #112802  0%, #214D04 95%, #669E43 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#112802 ', endColorstr='#669E43',GradientType=0 ); /* IE6-9 */
+}
+
+.answered, .answered:hover, .answered:active {
+	background: #4D4F4E;
+}
+
+.correct, .correct:hover, .correct:active {
+	background: #517e17;
+}
+
+.incorrect, .incorrect:hover, .incorrect:active {
+	background: #8d0000;
+}
+
+/* =============================================================================
+   Images
+   ========================================================================== */
+
+.iq-logo {
+	width: 135px;
+	height: 60px;
+	/* change for elephant iq logo */
+	top: 0em !important;
+}
+
+/* progress line animal styles - adjust background position for the animal */
+.animal1 {
+	width: 75px;
+	padding: 100px 0 0 0;
+	margin: 0 -22px 0 -8px;
+}
+
+.animal1.light {
+	background-position: 0 -264px;
+}
+
+.animal1.medium {
+	background-position: -76px -264px;
+}
+
+.animal1.dark {
+	background-position: -154px -264px;
+}
+
+.animal2 {
+	/*width: 117px;*/
+	width: 125px;
+	padding: 100px 0 0 0;
+	/*margin: 0 10px 0 -35px;*/
+	margin: 0 -13px 0 -30px;
+}
+
+.animal2.light {
+	background-position: -2px -124px;
+}
+
+.animal2.medium {
+	background-position: -155px -124px;
+}
+
+.animal2.dark {
+	background-position: -310px -124px;
+}
+
+.mother {
+	width: 107px;
+	padding: 100px 0 0 0;
+	margin: 0 -9px 0 -30px;
+}
+
+.mother.light {
+	background-position: 0 0;
+}
+
+.mother.medium {
+	background-position: -154px 0;
+}
+
+.mother.dark {
+	background-position: -309px 0;
+}
+
+.baby {
+	width: 65px;
+	padding: 100px 0 0 0;
+	margin: 0 6px 0 -19px;
+}
+
+.baby.light {
+	background-position: -229px -264px;
+}
+
+.baby.medium {
+	background-position: -299px -264px;
+}
+
+.baby.dark {
+	background-position: -369px -264px;
+}
+
+
+/* =============================================================================
+   Responsive styles
+   ========================================================================== */
+/*small screens*/
+.iq-logo {
+		right: -0.6875em;
+	}
+
+/* mid-level screens*/
+@media only screen and (min-width : 800px) {
+	.iq-logo {
+		width: 150px;
+		height: 70px;
+	}
+
+h2, button, input, .question {
+	font-size: 1em;
+}
+	
+	.introText {
+	    empty-cells: show;
+		padding-left: 270px;
+		min-height: 461px;
+		background: url(../images/index-image.png) no-repeat;
+	}
+}
+
+/*large screens*/
+@media only screen and (min-width: 1025px) {
+	.iq-logo {
+		right: 13.5%;
+	}
+}
+
+
+/* if you want to change the window frame, include and update this code 
+body, footer, .introContainer {
+	background: #bbc4ca;
+}
+
+.numbers li {	
+	color: #000;
+	color: rgba(0,0,0,0.7);
+	text-shadow: #000 -1px -1px 0;
+}
+
+footer {
+	border-top: 50px solid #bbc4ca;
+	-webkit-border-image: url(../../global-images/boat2.png) 50 0 0 0 / 50px 0 0 0 repeat;
+	-moz-border-image: url(../../global-images/boat2.png) 50 0 0 0 / 50px 0 0 0 round;
+	-o-border-image: url(../../global-images/boat2.png) 50 0 0 0 / 50px 0 0 0 round;
+	border-image: url(../../global-images/boat2.png) 50 0 0 0 / 50px 0 0 0 round;
+}
+
+@media only screen and (min-width : 1025px) {
+	.window {
+		width: 70%;
+		border-bottom: 25px solid transparent;
+		border-left: 53px solid transparent;
+		border-right: 53px solid transparent;
+		-webkit-border-image: url(../../global-images/boat.png) 25 53 repeat;
+		-moz-border-image: url(../../global-images/boat.png) 25 53 repeat;
+		-o-border-image: url(../../global-images/boat.png) 25 53 repeat;
+		border-image: url(../../global-images/boat.png) 25 53 repeat;
+	}
+} */
+
+/* if you want to change the color of the screen, include this code 
+.screen {
+	background: #ebebeb url(../global-images/texture.png);
+	background-position: center center;
+	background: -webkit-gradient(radial, center center, 0, center center, 460, from(#ebebeb), to(#c4c4c4)) url(../images/texture.png);
+	background: -webkit-radial-gradient(circle, #ebebeb, #c4c4c4) url(../images/global-texture.png);
+	background: -moz-radial-gradient(circle, #ebebeb, #c4c4c4) url(../images/global-texture.png);
+	background: -ms-radial-gradient(circle, #ebebeb, #c4c4c4) url(../images/global-texture.png);
+	background: radial-gradient(0,0, #ebebeb, #c4c4c4) url(../images/global-texture.png); 
+}
+
+.screen-bottom {
+	background: #c4c4c4;
+	background: -o-linear-gradient(bottom, #c4c4c4 25%, #dcdcdc 50%, #c4c4c4 75%);
+	background: -moz-linear-gradient(bottom, #c4c4c4 25%, #dcdcdc 50%, #c4c4c4 75%);
+	background: -webkit-linear-gradient(bottom, #c4c4c4 25%, #dcdcdc 50%, #c4c4c4 75%);
+	background: -ms-linear-gradient(bottom, #c4c4c4 25%, #dcdcdc 50%, #c4c4c4 75%);
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0.025, #c4c4c4), color-stop(0.5, #dcdcdc), color-stop(0.75, #c4c4c4));
+	background: linear-gradient(bottom, #c4c4c4 2%, #dcdcdc 51%, #c4c4c4 76%);
+} */

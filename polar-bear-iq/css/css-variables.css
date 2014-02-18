@@ -16,14 +16,10 @@ a:hover, a:active {
 }
 
 
-button {
+button, button:hover {
 	border-bottom: 1px solid #fff;
     background-color: #0032b9;
 	color: #fff;
-}
-
-button:hover {
-	background-color: #002382;
 }
 
 button:active {

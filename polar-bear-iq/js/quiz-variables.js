@@ -72,6 +72,6 @@ badges = [
 btnColor = '#0032B9', // button color
 
 // URLs for social network sharing at end of game
-facebookUrl = "http://www.facebook.com/sharer.php?u=http://apps.worldwildlife.org/animal-iq/polar-bear-iq/social/",
-googleUrl = "https://plus.google.com/share?url=http://apps.worldwildlife.org/animal-iq/polar-bear-iq/social/",
+facebookUrl = "http://www.facebook.com/sharer.php?u=http://content.worldwildlife.org/animal-iq/polar-bear-iq/social/",
+googleUrl = "https://plus.google.com/share?url=http://content.worldwildlife.org/animal-iq/polar-bear-iq/social/",
 twitterUrl = "http://www.twitter.com/home?status=";
