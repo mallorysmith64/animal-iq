@@ -1,0 +1,171 @@
+/* css properties that can be updated for each quiz */
+
+/* =============================================================================
+   Colors
+   ========================================================================== */
+body, button, input {
+	color: #000;
+}
+
+a, a:visited {
+	color: #517e17;
+}
+
+a:hover, a:active {
+	color: #000;
+}
+
+button, button:hover {
+	border-bottom: 1px solid #fff;
+	background-color: #cc7919;
+	color: #fff;
+}
+
+button:active {
+	background-color: #362404;
+}
+
+header{
+	background: #000;
+}
+
+footer {
+	background: #fff;
+	color: #555;
+}
+
+/* BLUE 598bc3
+/* RED 730b16
+/* ORANGE c05213
+/* LIGHT ORANGE d38835 */
+
+
+.sky {
+	background-color: #598bc3;
+	background: -moz-linear-gradient(top, #730b16 0%, #c05213 30%, #d38835 65%, #ffffff 90%);
+	/* background: -moz-linear-gradient(top, #598bc3 0%, #ffffff 70%); /* FF3.6+ */ 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#730b16), color-stop(30%,#c05213), color-stop(65%,#d38835), color-stop(90%,#ffffff)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #730b16 0%, #c05213 30%, #d38835 65%, #ffffff 90%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #730b16 0%, #c05213 30%, #d38835 65%, #ffffff 90%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #730b16 0%, #c05213 30%, #d38835 65%, #ffffff 90%); /* IE10+ */
+	background: linear-gradient(top, #730b16 0%, #c05213 30%, #d38835 65%, #ffffff 90%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#730b16', endColorstr='#d38835',GradientType=0 ); /* IE6-9 */
+}
+
+.answered, .answered:hover, .answered:active {
+	background: #4D4F4E;
+}
+
+.correct, .correct:hover, .correct:active {
+	background: #517e17;
+}
+
+.incorrect, .incorrect:hover, .incorrect:active {
+	background: #8d0000;
+}
+
+/* =============================================================================
+   Images
+   ========================================================================== */
+
+.iq-logo {
+	width: 135px;
+	height: 60px;
+	/* change for elephant iq logo */
+	top: 0em !important;
+}
+
+/* progress line animal styles - adjust background position for the animal */
+.animal1 {
+	width: 75px;
+	padding: 100px 0 0 0;
+	margin: 0 25px 0 -20px;
+}
+
+.animal1.light {
+	background-position: 0 -264px;
+}
+
+.animal1.medium {
+	background-position: -76px -264px;
+}
+
+.animal1.dark {
+	background-position: -154px -264px;
+}
+
+.animal2 {
+	width: 108px;
+	padding: 100px 0 0 0;
+	margin: 0 10px 0 -35px;
+}
+
+.animal2.light {
+	background-position: 0 -124px;
+}
+
+.animal2.medium {
+	background-position: -158px -124px;
+}
+
+.animal2.dark {
+	background-position: -316px -124px;
+}
+
+.mother {
+	width: 101px;
+	padding: 100px 0 0 0;
+	margin: 0 10px 0 -25px;
+}
+
+.mother.light {
+	background-position: 0 0;
+}
+
+.mother.medium {
+	background-position: -154px 0;
+}
+
+.mother.dark {
+	background-position: -309px 0;
+}
+
+.baby {
+	width: 65px;
+	padding: 100px 0 0 0;
+	margin: 0 15px 0 -30px;
+}
+
+.baby.light {
+	background-position: -229px -264px;
+}
+
+.baby.medium {
+	background-position: -299px -264px;
+}
+
+.baby.dark {
+	background-position: -369px -264px;
+}
+
+/* =============================================================================
+   Responsive styles
+   ========================================================================== */
+
+/* mid-level screens*/
+@media only screen and (min-width : 800px) {
+	.iq-logo {
+		width: 150px;
+		height: 70px;
+	}
+	
+
+
+	.introText {
+	    empty-cells: show;
+		padding-left: 270px;
+		min-height: 461px;
+		background: url(../images/index-image.png) no-repeat;
+	}
+}
+
