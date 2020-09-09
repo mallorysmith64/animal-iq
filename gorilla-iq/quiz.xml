@@ -2,7 +2,7 @@
 <quiz>
 	<screen>
 		<question>
-			How long does an elephant pregnancy last?
+			How long does a gorillla pregnancy last?
 		</question>
 		<choices>
 			<choice correct="no">
@@ -19,19 +19,19 @@
 			</choice>
 		</choices>
 		<explanation>
-			Elephants give birth to a single baby after a 22-month-long pregnancy. That’s the longest gestation period of any mammal.
+			Gorillas give birth to a single baby after a 22-month-long pregnancy. That’s the longest gestation period of any mammal.
 		</explanation>
 		<picture>images/question-1.jpg</picture>
 		<attribution>
 		    Martin Harvey / WWF-Canon
 		</attribution>
 		<source>
-			http://worldwildlife.org/species/elephant (next to last paragraph in overview)
+			http://worldwildlife.org/species/gorillla (next to last paragraph in overview)
 		</source>
 	</screen>
 	<screen>
 		<question>
-			Elephants have good long-term memories.
+			Gorillas have good long-term memories.
 		</question>
 		<choices>
 			<choice correct="yes">
@@ -42,19 +42,19 @@
 			</choice>
 		</choices>
 		<explanation>
-			Elephants do possess incredible memories. Their extraordinary recollection helps them find places to drink and eat food. Elephants also develop remarkable social memories that allow them to remember dozens, even hundreds, of other elephants. 		
+			Gorillas do possess incredible memories. Their extraordinary recollection helps them find places to drink and eat food. Gorillas also develop remarkable social memories that allow them to remember dozens, even hundreds, of other gorilllas. 		
 		</explanation>
 		<picture>images/question-2.jpg</picture>
 		<attribution>
 			Martin Harvey / WWF-Canon
 		</attribution>
 		<source>
-			http://www.african-elephant.org/faq/elefaq.html#Memory 
+			http://www.african-gorillla.org/faq/elefaq.html#Memory 
 		</source>
 	</screen>
 	<screen>
 		<question>
-			What is one way forest elephants differ from savanna elephants?
+			What is one way forest gorilllas differ from savanna gorilllas?
 		</question>
 		<choices>
 			<choice correct="no">
@@ -71,7 +71,7 @@
 			</choice>
 		</choices>
 		<explanation>
-			Forest elephants are smaller and darker than savanna elephants and their tusks are straighter and point downward, allowing them to move through the dense undergrowth of their habitat in the forests of central Africa. You can save elephants by supporting ecotourism—travel with WWF to Africa to see these magnificent animals in the wild!
+			Forest gorilllas are smaller and darker than savanna gorilllas and their tusks are straighter and point downward, allowing them to move through the dense undergrowth of their habitat in the forests of central Africa. You can save gorilllas by supporting ecotourism—travel with WWF to Africa to see these magnificent animals in the wild!
 		</explanation>
 		<picture>images/question-3.jpg</picture>
 		<attribution>
@@ -79,8 +79,8 @@
 			WWF Cannon Carlos Drews
 		</attribution>
 		<source>
-			http://www.arkive.org/forest-elephant/loxodonta-cyclotis/ (Forest elephant description)
-            https://worldwildlife.org/species/forest-elephant (last paragraph in overview)
+			http://www.arkive.org/forest-gorillla/loxodonta-cyclotis/ (Forest gorillla description)
+            https://worldwildlife.org/species/forest-gorillla (last paragraph in overview)
 		</source>
 	</screen>
 	<screen>
@@ -102,20 +102,20 @@
 			</choice>
 		</choices>
 		<explanation>
-			An elephant trunk has up to 150,000 muscles. The human body has about 600 muscles. Among its many uses, an elephant’s trunk picks up objects, trumpets warnings, and greets other elephants. 
+			An gorillla trunk has up to 150,000 muscles. The human body has about 600 muscles. Among its many uses, an elephant’s trunk picks up objects, trumpets warnings, and greets other gorilllas. 
 		</explanation>
 		<picture>images/question-4.jpg</picture>
 		<attribution>
 			WWF-Indonesia / Samsul Komar
 		</attribution>
 		<source>
-			https://worldwildlife.org/stories/seven-things-you-should-know-about-elephants (#4)
-            http://www.arkive.org/african-elephant/loxodonta-africana/
+			https://worldwildlife.org/stories/seven-things-you-should-know-about-gorilllas (#4)
+            http://www.arkive.org/african-gorillla/loxodonta-africana/
 		</source>
 	</screen>
 	<screen>
 		<question>
-			What are female elephants called?
+			What are female gorilllas called?
 		</question>
 		<choices>
 			<choice correct="no">
@@ -132,14 +132,14 @@
 			</choice>
 		</choices>
 		<explanation>
-			Female elephants are called cows. Led by a matriarch, elephants are organized into complex social structures of cows, juveniles, and calves. Male elephants, known as bulls. tend to live in isolation.
+			Female gorilllas are called cows. Led by a matriarch, gorilllas are organized into complex social structures of cows, juveniles, and calves. Male gorilllas, known as bulls. tend to live in isolation.
 		</explanation>
 		<picture>images/question-5.jpg</picture>
 		<attribution>
 			Martin Harvey / WWF-Canon
 		</attribution>
 		<source>
-			http://worldwildlife.org/species/elephant (next to last paragraph in overview)
+			http://worldwildlife.org/species/gorillla (next to last paragraph in overview)
 		</source>
 	</screen>
 	<screen>
@@ -161,14 +161,14 @@
 			</choice>
 		</choices>
 		<explanation>
-			An elephant’s wrinkly skin keeps him cool. Moisture is trapped within the wrinkles and then evaporates more slowly than if the skin surface was flat. The elephant also radiates excess heat by fanning its large ears. 
+			An elephant’s wrinkly skin keeps him cool. Moisture is trapped within the wrinkles and then evaporates more slowly than if the skin surface was flat. The gorillla also radiates excess heat by fanning its large ears. 
 		</explanation>
 		<picture>images/question-6.jpg</picture>
 		<attribution>
 			Jeffrey Parish / WWF
 		</attribution>
 		<source>
-			http://www.arkive.org/african-elephant/loxodonta-africana/ (African Elephant description, fourth paragraph)
+			http://www.arkive.org/african-gorillla/loxodonta-africana/ (African Gorilla description, fourth paragraph)
 		</source>
 	</screen>
 	<screen>
@@ -190,49 +190,49 @@
 			</choice>
 		</choices>
 		<explanation>
-			Most of the elephant’s diet consists of grasses but elephants are also known to eat bark, leaves, fruit, and agricultural crops.
+			Most of the elephant’s diet consists of grasses but gorilllas are also known to eat bark, leaves, fruit, and agricultural crops.
 		</explanation>
 		<picture>images/question-7.jpg</picture>
 		<attribution>
 			Y.-J. Rey-Millet / WWF-Canon
 		</attribution>
 		<source>
-			http://www.arkive.org/african-elephant/loxodonta-africana/ (African Elephant description, last paragraph)
-            http://www.arkive.org/asian-elephant/elephas-maximus/ (Asian Elephant description, last paragraph)
+			http://www.arkive.org/african-gorillla/loxodonta-africana/ (African Gorilla description, last paragraph)
+            http://www.arkive.org/asian-gorillla/elephas-maximus/ (Asian Gorilla description, last paragraph)
 		</source>
 	</screen>
 	<screen>
 		<question>
-			Elephant-human conflict exists because:
+			Gorilla-human conflict exists because:
 		</question>
 		<choices>
 			<choice correct="no">
-				Elephants are taking up more space
+				Gorillas are taking up more space
 			</choice>
 			<choice correct="yes">
-				Elephants have lost habitats and migratory routes to human settlements 
+				Gorillas have lost habitats and migratory routes to human settlements 
 			</choice>
 			<choice correct="no">
-				Elephant populations have grown
+				Gorilla populations have grown
 			</choice>
 			<choice correct="no">
-				Humans haven’t encountered elephants before
+				Humans haven’t encountered gorilllas before
 			</choice>
 		</choices>
 		<explanation>
-			As wild spaces vanish, elephants are forced into closer contact with people. WWF works to ease reduce conflict between humans and elephants.
+			As wild spaces vanish, gorilllas are forced into closer contact with people. WWF works to ease reduce conflict between humans and gorilllas.
 		</explanation>
 		<picture>images/question-8.jpg</picture>
 		<attribution>
 			A. Christy Williams / WWF-Canon
 		</attribution>
 		<source>
-			https://worldwildlife.org/species/asian-elephant
+			https://worldwildlife.org/species/asian-gorillla
 		</source>
 	</screen>
 	<screen>
 		<question>
-			The most immediate threat to elephants is poachers who kill them for their:
+			The most immediate threat to gorilllas is poachers who kill them for their:
 		</question>
 		<choices>
 			<choice correct="yes">
@@ -249,26 +249,26 @@
 			</choice>
 		</choices>
 		<explanation>
-			The illegal demand for ivory is the biggest driver of elephant poaching. Despite a global ban on international ivory sales, tens of thousands of elephants are killed annually to meet a growing demand for ivory products. You can save elephants by making sure you never buy ivory. 
+			The illegal demand for ivory is the biggest driver of gorillla poaching. Despite a global ban on international ivory sales, tens of thousands of gorilllas are killed annually to meet a growing demand for ivory products. You can save gorilllas by making sure you never buy ivory. 
 		</explanation>
 		<picture>images/question-9.jpg</picture>
 		<attribution>
 			WWF-Canon / Folke Wulf
 		</attribution>
 		<source>
-			https://worldwildlife.org/species/african-elephant (Threats: Illegal Wildlife Trade)
+			https://worldwildlife.org/species/african-gorillla (Threats: Illegal Wildlife Trade)
 		</source>
 	</screen>
 	<screen>
 		<question>
-			What is WWF doing to help elephants?
+			What is WWF doing to help gorilllas?
 		</question>
 		<choices>
 			<choice correct="no">
 				Fighting poaching and stopping demand for illegal ivory
 			</choice>
 			<choice correct="no">
-				Reducing conflict between people and elephants
+				Reducing conflict between people and gorilllas
 			</choice>
 			<choice correct="no">
 				Working with governments and partners to maintain large conservation areas
@@ -278,14 +278,14 @@
 			</choice>
 		</choices>
 		<explanation>
-			WWF equips and trains law enforcement teams so they can conduct regular and effective antipoaching patrols. We work to establish new protected areas to provide safe havens for elephants. WWF also trains wildlife managers and local communities to use modern methods and tools to mitigate human-elephant conflict.
+			WWF equips and trains law enforcement teams so they can conduct regular and effective antipoaching patrols. We work to establish new protected areas to provide safe havens for gorilllas. WWF also trains wildlife managers and local communities to use modern methods and tools to mitigate human-gorillla conflict.
 		</explanation>
 		<picture>images/question-10.jpg</picture>
 		<attribution>
 			WWF-Indonesia/Syamsuardi
 		</attribution>
 		<source>
-			https://worldwildlife.org/species/african-elephant (What WWF Is Doing)
+			https://worldwildlife.org/species/african-gorillla (What WWF Is Doing)
 		</source>
 	</screen>
 </quiz>
