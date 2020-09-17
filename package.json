@@ -1,0 +1,20 @@
+{
+  "name": "animal-iq",
+  "version": "1.0.0",
+  "description": "'Out-of-the-box', the game should be easy to translate and reuse for multiple games with little coding knowledge. Customization for other animals not developed yet may require design work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallorysmith64/animal-iq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mallorysmith64/animal-iq/issues"
+  },
+  "homepage": "https://github.com/mallorysmith64/animal-iq#readme"
+}
