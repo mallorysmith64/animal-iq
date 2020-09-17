@@ -1,12 +1,14 @@
 # Animal IQ
 
-'Out-of-the-box', the game should be easy to translate and reuse for multiple games with little coding knowledge. Customization for other animals not developed yet may require design work.
+'Out-of-the-box', the game should be easy to translate and reuse for multiple games with little coding knowledge. Customization for other animals are not developed yet and may require design work.
 
 Code has been tested on Internet Explorer 8 and up, Firefox, Google Chrome, Safari, iPhone, iPad, Android devices. It should work locally in Firefox; all other browsers typically require that it is on a server to access the XML file.
 
+## Summary
+
 The game is composed of several major pieces:
 
-* CHEATS - you know you want them :)
+* Cheats - you know you want them :)
 * XML
 * Images
 * HTML
@@ -14,7 +16,30 @@ The game is composed of several major pieces:
 * JavaScript
 * Social
 
-## CHEATS
+## Getting Started
+
+Step 1: Fork repository <br>
+
+Step 2: Clone repository <br>
+git clone https://github.com/WWF-International/animal-iq.git <br>
+
+Step 3: Use npm to install serve <br>
+npm i serve <br>
+or <br>
+npm i -g serve <br>
+
+Note: serve is used for static sites, SPAs, and static files <br>
+
+Step 4: Make sure package.json has start script
+```
+"scripts" {
+	"start": "serve"
+}
+```
+
+Step 4: Run npm start and go to localhost
+
+## Cheats
 A few hacks have been added to make the game easier to test as you develop and refine it.
 
 To speed up the game, you can add 'fast' as a parameter at the end of the URL:
